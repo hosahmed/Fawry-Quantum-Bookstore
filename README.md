@@ -19,3 +19,8 @@
    ```bash
    java Main
    ```
+
+
+This is a screenshot of the console output:
+
+![Console Output](screenshots/demo-screenshot.png)

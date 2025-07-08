@@ -34,7 +34,7 @@ public class BookStore {
         }
 
         if (!book.hasStock(quantity)) {
-            throw new RuntimeException("Quantum book store: Insufficient stock");
+            throw new RuntimeException("Quantum book store: out of stock");
         }
 
         book.reduceStock(quantity);
