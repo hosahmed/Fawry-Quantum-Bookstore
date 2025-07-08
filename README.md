@@ -8,13 +8,13 @@
    git clone https://github.com/hosahmed/Fawry-Quantum-Bookstore.git
    ```
 
-2. Navigate to the project directory and compile the code:
+2- Navigate to the project directory and compile the code:
 
    ```bash
    javac Main.java
    ```
 
-3. Run the program:
+3- Run the program:
 
    ```bash
    java Main
